@@ -16,3 +16,9 @@ The program stores all animal details in a text file (.txt). The file initially 
 - Sex of stray dog
 
 The records are sorted by dog breed upon insertion.
+
+
+This repository contains:
+- Pet shop database (.txt file)
+- Program code (.c file)
+- Program header file (.h file)
