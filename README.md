@@ -1,4 +1,4 @@
-# Pet shop information system project in Advanced Programming 
+# Pet shop information system project in Advanced Programming course
 
 For this group project, we were asked to implement a program in C that will simulate the operation of an information system of an animal welfare company (which we called a pet shop thoughout the whole project so that's how it'll be remembered as).
 
@@ -17,6 +17,7 @@ The program stores all animal details in a text file (.txt). The file initially 
 
 The records are sorted by dog breed upon insertion.
 
+----
 
 This repository contains:
 - Pet shop database (.txt file)
