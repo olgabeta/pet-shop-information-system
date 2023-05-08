@@ -1,4 +1,4 @@
-# pet-shop-information-system
+# Pet shop information system project in Advanced Programming 
 
 For this group project, we were asked to implement a program in C that will simulate the operation of an information system of an animal welfare company (which we called a pet shop thoughout the whole project so that's how it'll be remembered as).
 
