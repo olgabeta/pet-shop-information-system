@@ -1,10 +1,3 @@
-/*
-    Code written by:
-	Panagiotis Karoutsos, 02034
-	Olga Vasileiou, 01691
-    Stefania Douliaka, 00974
-*/
-
 #ifndef FUNCS_H
 #define SIZE 1024
 typedef struct age
