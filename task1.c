@@ -1,10 +1,3 @@
-/*
-    Code written by:
-	Panagiotis Karoutsos, 02034
-	Olga Vasileiou, 01691
-    Stefania Douliaka, 00974
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
